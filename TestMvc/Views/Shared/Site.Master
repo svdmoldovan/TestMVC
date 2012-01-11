@@ -17,6 +17,7 @@
               
             <div id="logindisplay">
                 <% Html.RenderPartial("LogOnUserControl"); %>
+				<h3>dmoldovan@softvision.ro</h3>
             </div> 
             
             <div id="menucontainer">
