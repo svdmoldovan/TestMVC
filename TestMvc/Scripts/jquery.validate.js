@@ -1,11 +1,11 @@
-/*
+﻿/*
  * jQuery validation plug-in 1.6
  *
  * http://bassistance.de/jquery-plugins/jquery-plugin-validation/
  * http://docs.jquery.com/Plugins/Validation
  *
  * Copyright (c) 2006 - 2008 Jörn Zaefferer
- *
+ *   
  * $Id: jquery.validate.js 6403 2009-06-17 14:27:16Z joern.zaefferer $
  *
  * Permission is hereby granted, free of charge, to any person obtaining
